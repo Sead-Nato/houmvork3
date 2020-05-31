@@ -1,0 +1,200 @@
+body {
+	margin-left: 30px;
+	margin-right: 100px;
+	font-family: "BPG Arial", sans-serif;
+}
+nav{
+	margin-top: 30px;
+	margin-bottom: 35px;
+}
+.htmllogo{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+	font-size: 24px;
+}
+
+
+.list{
+	display: inline-block;
+}
+
+.news {
+	color: #EE4036;
+}
+.main{
+	color: #3D58A6;
+}
+.contact{
+	color: #3D58A6;
+}
+
+
+li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 30px;
+	font-size: 18px;
+}
+a {
+	text-decoration: none;
+}
+a:link{
+	color: #3D58A6;
+}
+
+
+
+.number{
+	background-color: #3D58A6;
+}
+.month{
+	color: #3D58A6;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.text-title{
+	font-size: 18px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.text-image{
+	display: inline-block;
+	vertical-align: top;
+}
+.textbox{
+	display: inline-block;
+	vertical-align: top;
+	width: 900px;
+}
+.right{
+	font-size: 15px;
+	padding-left: 30px;
+}
+.left{
+	font-size: 15px;
+	padding-right: 30px;
+}
+.text-container{
+	margin-bottom: 50px;
+}
+
+
+
+/*page 2*/
+.txt{
+	margin-left: 40px;
+}
+.pg2text{
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+.inner-cont{
+	display: inline-block;
+	width: 550px;
+	background-color: #F2F2F2;
+	vertical-align: top;
+}
+
+.inner-cont2{
+	display: inline-block;
+	width: 550px;
+	background-color: #F2F2F2;
+	vertical-align: top;
+}
+
+.title2{
+	font-size: 18px;
+}
+
+.icon{
+	height: 140px;
+	display: inline-block;
+	vertical-align: top;
+}
+.textt{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 50px;
+	width: 300px;
+}
+.title2{
+	padding-bottom: 30px;
+}
+.title3{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	color: #3D58A6;
+}
+
+.icon{
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+/*3rd page*/
+
+.contact-cont{
+	background-color: #E6E6E6;
+	padding-top: 70px;
+	padding-left: 80px;
+}
+.contact-info{
+	display: inline-block;
+	vertical-align: top;
+}
+.map{
+	display: inline-block;
+	vertical-align: top;
+	width: 800px;
+	margin-left: 30px;
+}
+.contact-info{
+	margin-top: 20px;
+}
+
+.CI{
+	font-size: 18px;
+	line-height: 25px;
+	color: #3D58A6;
+}
+.adress{
+	line-height: 20px;
+	font-size: 15px;
+	color:#808080;
+}
+.span{
+	color: black;
+}
+
+/*FOOTER*/
+
+.FB 
+  {
+	height: 30px;
+	width: 14px;
+	display: inline-table;
+	margin-top: 32px;
+	margin-bottom: 20px;
+	padding-right: 34px;
+	border-right-style: ridge;
+    border-right-color: #363E97;
+    border-right-width: 1px;
+
+}
+
+  
+
+.YT 
+{
+
+	height: 3px;
+	width: 24.81px;
+	display: inline-table;
+	margin-top: 32px;
+	margin-bottom: 29px;
+	padding-left: 30px;
+}
